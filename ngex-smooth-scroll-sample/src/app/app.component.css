@@ -1,0 +1,5 @@
+section {
+  height: 300px;
+  overflow: auto;
+  border: 1px solid #e3e3e3;
+}
